@@ -1,1 +1,1 @@
-Primeira atividade da materia Software Basico, sistemas de hospedagem de hotel.
+Primeira atividade da materia Software Basico, sistema de hospedagem de hotel.
